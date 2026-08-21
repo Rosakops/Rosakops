@@ -20,5 +20,5 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rosakops&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosakops&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rosakops&theme=tokyonight&count_private=true" width="48%" />
 </p>
