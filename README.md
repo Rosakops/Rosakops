@@ -22,3 +22,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rosakops&theme=tokyonight&count_private=true" width="50%" />
   <img src="https://github-readme-stats-vert-three-33.vercel.app/api/top-langs/?username=Rosakops&layout=donut&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 </p>
+
+<p align="center">
+ ⚠️ DISCLAIMER: These stats only include public repos, except for the language breakdown.
+</p>
+
