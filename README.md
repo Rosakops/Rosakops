@@ -10,7 +10,6 @@
 ▹ Chess player
 ▹ Linux Enthusiast
 ▹ Low-tier programmer
-```text
 
 
 
