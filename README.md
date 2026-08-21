@@ -3,4 +3,4 @@
 # ─── ♟️ JHOVAN WATSON ♟️ ───
 
 ```text
-                 [ Coding ] ──> [ Computational Neuroscience ] ──> [ Biophysical Simulations ] ──> [ AI Systems ]
+       [ Coding ] ──> [ Computational Neuroscience ] ──> [ Biophysical Simulations ] ──> [ AI Systems ]
