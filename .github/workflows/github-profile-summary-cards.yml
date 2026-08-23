@@ -1,1 +1,21 @@
 
+name: GitHub-Profile-Summary-Cards
+
+on:
+  scheduled: # Se ejecuta automáticamente todos los días a medianoche
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Te permite ejecutarlo manualmente desde la pestaña "Actions" de tu perfil cuando quieras
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: vn7n24zfzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Rosakops
