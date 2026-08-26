@@ -1,34 +1,34 @@
 # <p align="center">─── ♟️ JHOVAN WATSON ♟️ ───</p>
 
 <p align="center">
-  <code>[ Coding ]</code> ──> <code>[ Computational Neuroscience ]</code> ──> <code>[ Biophysical Simulations ]</code> ──> <code>[ AI Systems ]</code>
+<code>[ Coding ]</code> ──> <code>[ Computational Neuroscience ]</code> ──> <code>[ Biophysical Simulations ]</code> ──> <code>[ AI Systems ]</code>
 </p>
 
 <p align="center">🧠 Not your average neurodivergent 🧠</p>
 
 <p align="center">
-  ▸ Chess player<br>
-  ▸ Linux Enthusiast<br>
-  ▸ Low-tier programmer
+▸ Chess player<br>
+▸ Linux Enthusiast<br>
+▸ Low-tier programmer
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://TU-DOMINIO.vercel.app/graph?username=Rosakops&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph-pi-six.vercel.app/graph?username=Rosakops&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rosakops&theme=tokyonight&count_private=true" width="50%" />
-  <img src="https://github-readme-stats-vert-three-33.vercel.app/api/top-langs/?username=Rosakops&layout=donut&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rosakops&theme=tokyonight&count_private=true" width="50%" />
+<img src="https://github-readme-stats-vert-three-33.vercel.app/api/top-langs/?username=Rosakops&layout=donut&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
- ⚠️ DISCLAIMER: These stats only include public repos, except for the language breakdown.
+⚠️ DISCLAIMER: These stats only include public repos, except for the language breakdown.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,neovim,git,bash,cpp" />
+<img src="https://skillicons.dev/icons?i=python,linux,neovim,git,bash,cpp" />
 </p>
