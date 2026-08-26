@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rosakops&theme=tokyo-night&hide_border=true" />
+  <img src="https://TU-DOMINIO.vercel.app/graph?username=Rosakops&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
